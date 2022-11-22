@@ -1,6 +1,6 @@
 # University Application
 
-On the main screen, a list of universities (initially empty) and on top of the add button, when clicked, you go to another page where the search for universities by country is implemented. Each cell displays the name of the university and a button (plus icon, when added to the main page, the button should change to a checkmark and should not be clickable so as not to duplicate universities on the main page) for adding to the main page. The name of the university is displayed on the main page and the ability to delete a cell is implemented, if you click on it, you will go to the page with details about the university.
+On the main screen, a list of universities (initially empty) and on top of the add button, when clicked,you go to another page where the search for universities by country is implemented.Each cell displays the name of the university and a button (plus icon, when added to the main page, the button should change to a checkmark and should not be clickable so as not to duplicate universities on the main page) for adding to the main page. The name of the university is displayed on the main page and the ability to delete a cell is implemented, if you click on it, you will go to the page with details about the university.
 
 
 Application that has 3 pages:
